@@ -2,7 +2,7 @@
   - 캠핑 예약 DB
 
 ## ⌚ Project Period
-  - 2023.03 ~ 2022.06
+  - 2023.03 ~ 2023.06
 
 ## 🛠 Development Environment
   ### 🚀 Skills : ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
