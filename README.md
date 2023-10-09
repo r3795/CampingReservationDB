@@ -5,8 +5,7 @@
   - 2023.03 ~ 2023.06
 
 ## 🛠 Development Environment
-  ### 🚀 Skills : ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ### ⚡ Database : ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
+  ### 🚀 Skills / ⚡ Database :  ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
 
 ## 요구사항 명세서
 * 캠퍼와 캠핑장 소유자가 제공하는 서비스를 이용할 수 있는 온라인 캠핑 예약 시스템이 있다.
